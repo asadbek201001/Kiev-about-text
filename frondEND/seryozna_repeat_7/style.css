@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+
+
+
+
+
+.sun {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+
+}
+
+

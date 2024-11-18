@@ -1,0 +1,126 @@
+/*  
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+input:focus {
+    outline: 2px solid red;
+    background-color: blue;
+}
+button:active {
+    background-color: yellow;
+    color: red;
+}
+
+
+
+
+a:visited {
+    color: green;
+}
+
+
+
+ */
+
+
+
+
+
+/*
+
+
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+h1 {
+    color: red;
+    font-size: 30px;
+}
+
+div:hover {
+    background-color: blue;
+}
+
+div:hover h1 {
+    color: black;
+}  */
+
+
+
+
+body {
+background-color: rgb(230, 229, 229);
+justify-content: center;
+ }
+ h4 {
+margin-left: 450px;
+ }
+
+
+
+
+
+.container {
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+
+.item_1 {
+    background-color: white;
+    width: 230px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.item_2 {
+    background-color: white;
+    width: 230px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.item_3 {
+    background-color: white;
+    width: 230px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.item_4 {
+    background-color: white;
+    width: 230px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: greenyellow;
+}
+
+
+

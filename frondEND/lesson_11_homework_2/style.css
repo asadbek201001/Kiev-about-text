@@ -1,0 +1,39 @@
+.grid-container {
+    display: flex;
+    justify-content: center;
+}
+
+.row div {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    font-size: 18px;
+
+}
+
+.row div:nth-child(2n+1) {
+background-color: lightblue;
+}
+
+
+.row div:nth-child(12),
+.row div:nth-child(14),
+.row div:nth-child(16),
+.row div:nth-child(18),
+.row div:nth-child(20),
+.row div:nth-child(32),
+.row div:nth-child(34),
+.row div:nth-child(36),
+.row div:nth-child(38),
+.row div:nth-child(40),
+.row div:nth-child(52),
+.row div:nth-child(54),
+.row div:nth-child(56),
+.row div:nth-child(58),
+.row div:nth-child(60) {
+    background-color: ;
+}
+

@@ -1,0 +1,165 @@
+body {
+    background-color: rgb(230, 229, 229);
+    justify-content: center;
+     }
+     h4 {
+    margin-left: 450px;
+     }
+    .container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    }
+    button {
+        background-color: greenyellow;
+    }
+    
+
+/*___________________________________________birinchi tovar______________________________________*/
+
+
+
+    
+    .item_1 {
+ 
+        background-color: white;
+        width: 230px;
+        height: 450px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+h5 {
+    color: rgb(250, 208, 0);
+    font-size: 20px;
+}
+.item_1 button {
+    padding: 10px 20px;
+    color: black;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+
+/*___________________________________________ikkinchi tovar______________________________________*/
+
+
+
+
+    .item_2 {
+        background-color: white;
+        width: 230px;
+        height: 450px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+    .item_2 h5 {
+        color: rgb(250, 208, 0);
+        font-size: 20px;
+    }
+    .item_2 button {
+        padding: 10px 20px;
+        color: black;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    .item_2 img {
+        width: 150px;
+        height: 150px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*___________________________________________uchinchi tovar______________________________________*/
+    
+    .item_3 {
+        background-color: white;
+        width: 230px;
+        height: 450px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+    .item_2 {
+        background-color: white;
+        width: 230px;
+        height: 450px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+    .item_3 h5 {
+        color: rgb(250, 208, 0);
+        font-size: 20px;
+    }
+    .item_3 button {
+        padding: 10px 20px;
+        color: black;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    .item_3 img {
+        width: 150px;
+        height: 150px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*___________________________________________to'rtinchi tovar______________________________________*/
+    .item_4 {
+        background-color: white;
+        width: 230px;
+        height: 450px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+    .item_4 {
+        background-color: white;
+        width: 230px;
+        height: 450px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+    .item_4 h5 {
+        color: rgb(250, 208, 0);
+        font-size: 20px;
+    }
+    .item_4 button {
+        padding: 10px 20px;
+        color: black;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    .item_4 img {
+        width: 150px;
+        height: 150px;
+    }
+
+
+    
+    

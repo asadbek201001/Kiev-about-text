@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    
+    width: 80%; 
+    border: 5px solid black;
+}
+
+th, td {
+    border: 1px solid black; 
+    padding: 10px;
+
+}
+
+thead {
+    background-color: navy;
+    color: white;
+}

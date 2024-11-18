@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(173, 208, 238);
+    justify-content: center;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    }
+    .all {
+        height: 10px;
+    }
+
+
+
+
+
+
+
+
+
+   .item_1 {
+
+        background-color: white;
+        width:  300px;
+        height: 550px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+    .item_1 img {
+        width: 250px;
+        height: 250px;
+    }
+    .item_1_1 {
+        
+    }
+    .item_1_2 button{
+    color: rgb(234, 184, 77);
+   width: 20px;
+   height: 20px;
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+    .item_2 {
+ 
+        background-color: white;
+        width: 300px;
+        height: 550px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+
+.item_2 img {
+    width: 250px;
+    height: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .item_3 {
+ 
+        background-color: white;
+        width:  300px;
+        height: 550px;
+        margin: 20px;
+        border-radius: 10px;
+    }

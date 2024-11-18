@@ -1,0 +1,164 @@
+
+body {
+    background-color: aqua;
+    gap: 10px;
+}
+
+
+
+.rotate {
+    width: 200px; 
+    height: 200px; 
+    animation: rotateImage 6s infinite linear;
+    margin-left: 200px;
+}
+
+
+@keyframes rotateImage {
+    from{
+        transform: rotate(0deg);
+        margin-top: 300px;
+    }
+    to {
+        transform: rotate(360deg);
+        top: 0;
+    }
+}
+
+
+
+.rotate_2 {
+    width: 100px; 
+    height: 100px; 
+    animation: rotate_2 8s infinite linear;
+    margin-left: 800px;
+}
+
+
+@keyframes rotate_2 {
+    from{
+        transform: rotate(0deg);
+        margin-top: 300px;
+    }
+    to {
+        transform: rotate(360deg);
+        top: 0;
+    }
+}
+
+
+
+
+.rotate_3 {
+    width: 100px; 
+    height: 100px; 
+    animation: rotate_2 8s infinite linear;
+    margin-left: 300px;
+}
+
+
+@keyframes rotate_3 {
+    from{
+        transform: rotate(0deg);
+        margin-top: 400px;
+    }
+    to {
+        transform: rotate(360deg);
+        top: 0;
+    }
+}
+
+
+
+
+
+
+.rotate_4 {
+    width: 350px; 
+    height: 350px; 
+    animation: rotate_2 6s infinite linear;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+
+@keyframes rotate_4 {
+    from{
+        transform: rotate(0deg);
+        margin-top: 200px;
+    }
+    to {
+        transform: rotate(10deg);
+        top: 0;
+    }
+}
+
+
+
+
+
+
+.rotate_5 {
+    width: 200px; 
+    height: 200px; 
+    animation: rotate_2 5s infinite linear;
+    margin-left: 500px;
+    width: 400px;
+    height: 400px;
+}
+
+
+@keyframes rotate_5 {
+    from{
+        transform: rotate(0deg);
+        margin-top: 400px;
+    }
+    to {
+        transform: rotate(10deg);
+        top: 0;
+    }
+}
+
+
+
+
+.rotate_6 {
+    width: 100px; 
+    height: 100px; 
+    animation: rotate_6 8s infinite linear;
+    margin-left: 650px;
+}
+
+
+@keyframes rotate_6 {
+    from{
+        transform: rotate(0deg);
+        margin-top: 400px;
+    }
+    to {
+        transform: rotate(360deg);
+        top: 0;
+    }
+}
+
+
+
+.rotate_7 {
+    width: 400px; 
+    height: 400px; 
+    animation: rotate_7 2s infinite linear;
+    margin-left: 800px;
+}
+
+
+@keyframes rotate_7 {
+    from{
+        transform: rotate(0deg);
+        margin-top: 500px;
+    }
+    to {
+        transform: rotate(360deg);
+        top: 0;
+    }
+}
+

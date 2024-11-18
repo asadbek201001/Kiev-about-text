@@ -1,0 +1,42 @@
+body {
+    align-items: center;
+    justify-content: center;
+    background-color: #66C2B9;
+
+}
+
+
+
+
+.all {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    height: 350px;
+    background-color: rgb(252, 241, 241);
+    margin-top: 100px;
+    margin-left: 20px;
+
+}
+
+.item_1 {
+    width: 210px;
+    height: 210px;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.item_2 {
+    width: 210px;
+    height: 210px;
+    background-color: white;
+    border-radius: 10px;
+}
+.item_3 {
+    width: 210px;
+    height: 210px;
+    background-color: white;
+    margin-right: 100px;
+    border-radius: 10px;
+}

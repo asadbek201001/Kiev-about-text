@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+padding: 0;
+}
+.board {
+    width: 400px;
+    height: 400px;
+}
+.row {
+    display: flex;
+}
+.square {
+    width: 100px;
+    height: 100px;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+
+
+
+
