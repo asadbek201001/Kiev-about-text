@@ -3,8 +3,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    margin: 0;
     background-color: white;
 }
 
@@ -76,7 +74,7 @@ body {
 }
 
 .box-7 {
-    background-color: rgb(177, 191, 177);
+    background-color: rgb(61, 61, 61);
     grid-column: 3 / 4; 
     grid-row: 4 / 4;
     width: 145px;
